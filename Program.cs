@@ -2,7 +2,7 @@
 
 Console.ForegroundColor = ConsoleColor.Yellow;
 Console.BackgroundColor = ConsoleColor.Gray;
-Console.WriteLine(">>>>ATIVIDADADE RAIO E TROVÃO<<<<<\n");
+Console.WriteLine(">>>>ATIVIDADE RAIO E TROVÃO<<<<<\n");
 Console.ResetColor();
 
 Console.ForegroundColor = ConsoleColor.Blue;
