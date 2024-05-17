@@ -1,7 +1,5 @@
 ﻿decimal distancia, calculo, tempo;
 
-Console.ForegroundColor = ConsoleColor.Yellow;
-Console.BackgroundColor = ConsoleColor.Gray;
 Console.WriteLine(">>>>ATIVIDADE RAIO E TROVÃO<<<<<\n");
 Console.ResetColor();
 
