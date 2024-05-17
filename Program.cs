@@ -14,7 +14,7 @@ calculo = Convert.ToDecimal(340.29);
 distancia = tempo * calculo;
 
 Console.ForegroundColor = ConsoleColor.DarkCyan;
-Console.WriteLine($"A distância que voce ouviu o raio é de {distancia}KM ");
+Console.WriteLine($"A distância do raio que voce ouviu é de {distancia}KM ");
 Console.ResetColor();
 
 
